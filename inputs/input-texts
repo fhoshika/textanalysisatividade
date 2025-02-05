@@ -1,8 +1,11 @@
 As frases utilizadas para os testes (sem incluir a descrição "Positivo"/"Negativo"/"Neutro").
 
-Positivo: "I was thoroughly impressed by the new smartphone’s vibrant display and blazing-fast performance, making every interaction a delight."
-Negativo: "The hotel room felt cramped and outdated, with a lingering musty odor that made the entire stay uncomfortable."
-Neutro: "The restaurant offers a standard dining experience, with a menu that meets expectations but doesn't particularly stand out."
-Positivo: "I absolutely loved the sleek design and intuitive interface of the smartwatch—it’s become an essential part of my daily routine."
-Negativo: "The laptop consistently disappointed me with its frequent overheating and short battery life, which hampered my productivity."
-Neutro: "The new tablet meets standard expectations for everyday tasks with reliable performance, but it lacks any unique standout features."
+Positive 1: "I was thoroughly impressed by the new smartphone’s vibrant display and blazing-fast performance, making every interaction a delight."
+Negative 1: "The hotel room felt cramped and outdated, with a lingering musty odor that made the entire stay uncomfortable."
+Neutral 1: "The restaurant offers a standard dining experience, with a menu that meets expectations but doesn't particularly stand out."
+Positive 2: "I absolutely loved the sleek design and intuitive interface of the smartwatch—it’s become an essential part of my daily routine."
+Negative 2: "The laptop consistently disappointed me with its frequent overheating and short battery life, which hampered my productivity."
+Neutral 2: "The new tablet meets standard expectations for everyday tasks with reliable performance, but it lacks any unique standout features."
+Organic 1: "got the new smartphone and its design is super lit but the battery life is kinda sus, not sure if im hyped or disappointed tbh"
+Organic 2: "stayed at this hotel last weekend, the vibe was chill and the decor was cool but the service left me kinda scratching my head, idk how i feel about it"
+Organic 3: "bought a new laptop recently, looks dope and works most times but then it acts up randomly so i'm left wondering if its actually worth the hype"
