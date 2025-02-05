@@ -1,0 +1,31 @@
+{
+    "documents": [
+        {
+            "id": "id__1740",
+            "sentiment": "negative",
+            "confidenceScores": {
+                "positive": 0,
+                "neutral": 0,
+                "negative": 0.99
+            },
+            "sentences": [
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 0.99
+                    },
+                    "offset": 0,
+                    "length": 126,
+                    "text": "got the new smartphone and its design is super lit but the battery life is kinda sus, not sure if im hyped or disappointed tbh",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2025-01-01"
+}
