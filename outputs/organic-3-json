@@ -1,0 +1,31 @@
+{
+    "documents": [
+        {
+            "id": "id__2204",
+            "sentiment": "negative",
+            "confidenceScores": {
+                "positive": 0.15,
+                "neutral": 0.01,
+                "negative": 0.84
+            },
+            "sentences": [
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.15,
+                        "neutral": 0.01,
+                        "negative": 0.84
+                    },
+                    "offset": 0,
+                    "length": 172,
+                    "text": "bought a new laptop recently and it's straight up fire—runs and looks sleek af, and even if it glitches now and then it's still a total flex and def worth the hype, no cap!",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2025-01-01"
+}
