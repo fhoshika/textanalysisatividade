@@ -1,0 +1,90 @@
+{
+    "documents": [
+        {
+            "id": "id__812",
+            "sentiment": "negative",
+            "confidenceScores": {
+                "positive": 0,
+                "neutral": 0,
+                "negative": 1
+            },
+            "sentences": [
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 0,
+                    "length": 110,
+                    "text": "The hotel room felt cramped and outdated, with a lingering musty odor that made the entire stay uncomfortable.",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 4,
+                            "length": 10,
+                            "text": "hotel room",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/0/assessments/0"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/0/assessments/1"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/0/assessments/2"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 20,
+                            "length": 7,
+                            "text": "cramped",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 32,
+                            "length": 8,
+                            "text": "outdated",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.01,
+                                "negative": 0.99
+                            },
+                            "offset": 96,
+                            "length": 13,
+                            "text": "uncomfortable",
+                            "isNegated": false
+                        }
+                    ]
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2025-01-01"
+}
