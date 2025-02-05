@@ -1,0 +1,75 @@
+{
+    "documents": [
+        {
+            "id": "id__989",
+            "sentiment": "neutral",
+            "confidenceScores": {
+                "positive": 0,
+                "neutral": 1,
+                "negative": 0
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 1,
+                        "negative": 0
+                    },
+                    "offset": 0,
+                    "length": 123,
+                    "text": "The restaurant offers a standard dining experience, with a menu that meets expectations but doesn't particularly stand out.",
+                    "targets": [
+                        {
+                            "sentiment": "mixed",
+                            "confidenceScores": {
+                                "positive": 0.5,
+                                "negative": 0.5
+                            },
+                            "offset": 59,
+                            "length": 4,
+                            "text": "menu",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/0/assessments/0"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/0/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 69,
+                            "length": 18,
+                            "text": "meets expectations",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 113,
+                            "length": 9,
+                            "text": "stand out",
+                            "isNegated": true
+                        }
+                    ]
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2025-01-01"
+}
